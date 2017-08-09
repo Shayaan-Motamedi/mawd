@@ -45,21 +45,6 @@ i {
 	padding: 20px;
 	margin: auto;
 }
-.rabbit {
-	position: relative;
-	width: 100%;
-	height: auto;
-	padding-top: 30px;
-	opacity: 0.4;
-	border-radius: 10px;
-	-moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: FlipH;
-    -ms-filter: "FlipH";
-}
-
 .artist-list {
 	text-align: center;
 	position: relative; bottom: -250px;
