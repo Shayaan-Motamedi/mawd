@@ -18,13 +18,13 @@ i {
 	padding-bottom: 40px;
 }
 .spotify {
-  color: rgb(239, 55, 199);
+  color: rgb(249, 179, 226);
 }
 .soundcloud {
-  color: rgb(239, 55, 199);
+  color: rgb(249, 179, 226);
 }
 .youtube {
-  color: rgb(239, 55, 199);
+  color: rgb(249, 179, 226);
 }
 .title-photos {
   display: inline-block;
@@ -43,7 +43,7 @@ li {
 	display: inline;
 }
 .names {
-	color: rgb(239, 55, 199);
+	color: rgb(249, 179, 226);
 	font-size: 25px;
 	padding: 15px;
 	margin: auto;
@@ -64,7 +64,7 @@ h4 {
 	float: right;
 	padding: 10px;
 	padding-right: 20px;
-	color: rgb(239, 55, 199);
+	color: rgb(249, 179, 226);
 }
 .left {
 	float: left;
