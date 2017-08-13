@@ -27,7 +27,7 @@ i {
   color: rgb(249, 179, 226);
 }
 .title-photos {
-  display: inline-block;
+  display: inline;
   text-align: center;
   width: 100%;
   opacity: 0.8;
