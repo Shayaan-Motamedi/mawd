@@ -2,7 +2,7 @@
 
 body {
   background-color: black;
-  margin-top: 30px;
+  margin: auto;
 }
 h1 {
   text-align: center;
@@ -36,6 +36,9 @@ i {
 }
 li {
 	display: block;
+}
+.title-photos {
+	margin: auto;
 }
 .names {
 	color: rgb(249, 179, 226);
