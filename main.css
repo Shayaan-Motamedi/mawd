@@ -28,8 +28,9 @@ i {
   color: rgb(249, 179, 226);
 }
 .title-photos {
-  display: inline-block;
-  text-align: center;
+  max-width: 100%; 
+  display:block; 
+  height: auto;
   width: 100%;
   opacity: 0.8;
   white-space: nowrap;
