@@ -8,6 +8,7 @@ h1 {
   color: white;
   font-size: 70px;
   font-family: 'Oswald', sans-serif; 
+  
 }
 i {
 	font-size: 35px;
@@ -52,7 +53,7 @@ li {
 }
 .two {
 	padding-top: 50px;
-	padding-bottom: 100px;
+	padding-bottom: 50px;
 }
 h4 {
 	font-size: 13px;
@@ -60,6 +61,12 @@ h4 {
 }
 h4 {
 	display: inline;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	background-color: black;
 }
 .right {
 	float: right;
