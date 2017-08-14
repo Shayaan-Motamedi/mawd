@@ -27,10 +27,11 @@ i {
   color: rgb(249, 179, 226);
 }
 .title-photos {
-  display: inline;
+  display: inline-block;
   text-align: center;
   width: 100%;
   opacity: 0.8;
+  white-space: nowrap;
 }
 .img-1 {
 	padding: 10px;
