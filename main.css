@@ -27,10 +27,9 @@ i {
   color: rgb(249, 179, 226);
 }
 .title-photos { 
-  opacity: 0.8;
+  opacity: 0.7;
 }
 .img-1 {
-	padding: 10px;
 	margin: auto;
 }
 li {
@@ -39,10 +38,12 @@ li {
 .title-photos {
 	margin: auto;
 }
+.list-edit {
+	padding: 20px;
+}
 .names {
 	color: rgb(249, 179, 226);
 	font-size: 25px;
-	padding: 15px;
 	margin: auto;
 	font-family: 'Oswald', sans-serif; 
 }
@@ -73,10 +74,6 @@ h4 {
 	padding: 10px;
 	padding-right: 20px;
 	color: rgb(249, 179, 226);
-}
-.left {
-	float: left;
-	padding-left: 20px;
 }
 
 /* ABOUT */
