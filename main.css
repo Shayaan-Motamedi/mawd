@@ -27,20 +27,15 @@ i {
 .youtube {
   color: rgb(249, 179, 226);
 }
-.title-photos {
-  max-width: 100%; 
-  display:block; 
-  height: auto;
-  width: 100%;
+.title-photos { 
   opacity: 0.8;
-  white-space: nowrap;
 }
 .img-1 {
 	padding: 10px;
 	margin: auto;
 }
 li {
-	display: inline-block;
+	display: block;
 }
 .names {
 	color: rgb(249, 179, 226);
