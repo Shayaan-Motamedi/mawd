@@ -16,7 +16,6 @@ i {
 	padding: 15px;
 }
 .page-links {
-	text-align: center;
 	padding-bottom: 40px;
 }
 .spotify {
@@ -38,9 +37,6 @@ i {
 .img-1 {
 	padding: 10px;
 	margin: auto;
-}
-.artist-list {
-	text-align: center;
 }
 li {
 	display: inline;
