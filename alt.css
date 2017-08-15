@@ -1,0 +1,16 @@
+
+/* INTRO */
+
+body {
+	background-color: black;
+}
+.photo {
+	padding-top: 80px;
+	margin: auto;
+}
+img {
+	border-radius: 30px;
+}
+.button {
+	padding-top: 50px;
+}
